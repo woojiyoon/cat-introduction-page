@@ -1,0 +1,44 @@
+body {
+  background-color: #fbf9cc;
+}
+a {
+  color: tomato;
+}
+a:hover {
+  color: green;
+}
+h2 {
+  color: #6fbb9a;
+  border: #94c8b1 1px dotted;
+  padding: 5px 20px;
+  border-left: #d0e35b 20px solid;
+}
+dt {
+  font-weight: bold;
+}
+
+#lead {
+  border-top: #6fbb9a 1px dotted;
+  border-bottom: #6fbb9a 1px dotted;
+  text-align: center;
+  padding: 15px;
+}
+
+.more {
+  text-align: right;
+}
+.cat-type {
+  font-size: 80%;
+}
+.cat-type.male {
+  color: #27937a;
+}
+.cat-type.female {
+  color: #df972f;
+}
+h1 {
+  color: green;
+}
+h1 span {
+  color: #d0e35b;
+}
